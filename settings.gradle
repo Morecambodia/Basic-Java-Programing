@@ -1,0 +1,3 @@
+include ':MyRirstJava'
+include ':app'
+rootProject.name = "MyFirstJava"
